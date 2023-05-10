@@ -1,0 +1,15 @@
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\bin\Debug\net6.0\PromptSplitter.exe
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\bin\Debug\net6.0\PromptSplitter.deps.json
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\bin\Debug\net6.0\PromptSplitter.runtimeconfig.json
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\bin\Debug\net6.0\PromptSplitter.dll
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\bin\Debug\net6.0\PromptSplitter.pdb
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\PromptSplitter.csproj.AssemblyReference.cache
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\PromptSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\PromptSplitter.AssemblyInfoInputs.cache
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\PromptSplitter.AssemblyInfo.cs
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\PromptSplitter.csproj.CoreCompileInputs.cache
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\PromptSplitter.dll
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\refint\PromptSplitter.dll
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\PromptSplitter.pdb
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\PromptSplitter.genruntimeconfig.cache
+C:\Users\DjVlad\source\repos\PromptSplitter\PromptSplitter\obj\Debug\net6.0\ref\PromptSplitter.dll
